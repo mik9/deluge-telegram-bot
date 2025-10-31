@@ -1,2 +1,2 @@
-python-telegram-bot
-deluge-client
+python-telegram-bot=22.5
+deluge-client=1.10.2
